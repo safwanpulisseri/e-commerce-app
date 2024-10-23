@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../screens/cart/cart_Screen.dart';
 
 class CartIcon extends StatelessWidget {
